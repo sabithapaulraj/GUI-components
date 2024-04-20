@@ -152,6 +152,9 @@ public class MainActivity extends AppCompatActivity
 ![WhatsApp Image 2024-03-11 at 09 22 22_b91525d5](https://github.com/sabithapaulraj/GUI-components/assets/118343379/7b6f7dbf-3bee-4ffc-a063-fe97981a0e7b)
 ![WhatsApp Image 2024-03-11 at 09 23 15_0f3ca20a](https://github.com/sabithapaulraj/GUI-components/assets/118343379/d43658d2-fa1d-4d96-a18e-7b6f53269b7f)
 
+## Working in Android Studio
+![Screenshot 2024-04-20 184948](https://github.com/sabithapaulraj/GUI-components/assets/118343379/76013e01-ea8f-4d4b-9f8a-ccae715ef720)
+
 
 
 ## RESULT
